@@ -1,0 +1,20 @@
+# Core App Framework
+streamlit
+fastapi
+uvicorn
+
+# Google Gemini API
+google-generativeai
+python-dotenv
+
+# File Handling
+PyPDF2
+python-docx
+python-multipart
+
+# Text Processing
+ftfy
+regex
+
+# Streamlit Enhancements
+streamlit_extras
